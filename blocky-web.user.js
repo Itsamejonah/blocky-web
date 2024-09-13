@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         blocky-web
-// @namespace    https://kibty.town
+// @namespace    https://windowsuser.neocities.org
 // @version      0.1
 // @description  makes the web boxy like the old days
 // @author       xyzeva
